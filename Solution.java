@@ -28,7 +28,7 @@ class Prime{
 		}System.out.println("The Addition of Prime Number is : " + add);
 	}
 }
-public class AddPrime {
+public class Solution {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter The Start Number : ");
